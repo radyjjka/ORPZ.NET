@@ -1,0 +1,13 @@
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.exe
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.deps.json
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.runtimeconfig.json
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.runtimeconfig.dev.json
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.dll
+D:\Rider Solutions\LAB3NET\LAB3NET\bin\Debug\netcoreapp3.1\LAB3NET.pdb
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.csproj.AssemblyReference.cache
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.AssemblyInfoInputs.cache
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.AssemblyInfo.cs
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.csproj.CoreCompileInputs.cache
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.dll
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.pdb
+D:\Rider Solutions\LAB3NET\LAB3NET\obj\Debug\netcoreapp3.1\LAB3NET.genruntimeconfig.cache
