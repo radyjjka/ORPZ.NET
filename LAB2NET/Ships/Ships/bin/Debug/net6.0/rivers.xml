@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rivers>
+  <river>
+    <name>Dnipro River</name>
+    <id>4</id>
+    <length>2200</length>
+    <inflows>13</inflows>
+    <maxwidth>5</maxwidth>
+  </river>
+  <river>
+    <name>Dnister River</name>
+    <id>5</id>
+    <length>1300</length>
+    <inflows>12</inflows>
+    <maxwidth>4</maxwidth>
+  </river>
+  <river>
+    <name>Desna River</name>
+    <id>6</id>
+    <length>1130</length>
+    <inflows>18</inflows>
+    <maxwidth>2</maxwidth>
+  </river>
+  <river>
+    <name>Vesna River</name>
+    <id>7</id>
+    <length>800</length>
+    <inflows>15</inflows>
+    <maxwidth>8</maxwidth>
+  </river>
+  <river>
+    <name>Kolomyyka River</name>
+    <id>8</id>
+    <length>800</length>
+    <inflows>11</inflows>
+    <maxwidth>8</maxwidth>
+  </river>
+</rivers>

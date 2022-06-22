@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<seas>
+  <sea>
+    <name>Black Sea</name>
+    <id>1</id>
+    <square>30000</square>
+  </sea>
+  <sea>
+    <name>White Sea</name>
+    <id>2</id>
+    <square>20000</square>
+  </sea>
+  <sea>
+    <name>Gray Sea</name>
+    <id>3</id>
+    <square>50000</square>
+  </sea>
+  <sea>
+    <name>Blue Sea</name>
+    <id>4</id>
+    <square>60000</square>
+  </sea>
+</seas>
