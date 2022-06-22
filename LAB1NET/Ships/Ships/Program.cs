@@ -163,7 +163,7 @@ namespace Ships
             Console.WriteLine(query8);
             
             Console.WriteLine("Query 9");
-            Console.WriteLine("Show total number of seas");
+            Console.WriteLine("Show ports of each river/sea");
             var query9 = rivers.Join(ports,
                 r => r.Id,
                 p => p.TypeId,
