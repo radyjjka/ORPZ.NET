@@ -1,0 +1,15 @@
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.csproj.AssemblyReference.cache
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.AssemblyInfoInputs.cache
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.AssemblyInfo.cs
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.csproj.CoreCompileInputs.cache
+D:\Rider Solutions\LAB1\Ships\Ships\bin\Debug\net6.0\Ships.exe
+D:\Rider Solutions\LAB1\Ships\Ships\bin\Debug\net6.0\Ships.deps.json
+D:\Rider Solutions\LAB1\Ships\Ships\bin\Debug\net6.0\Ships.runtimeconfig.json
+D:\Rider Solutions\LAB1\Ships\Ships\bin\Debug\net6.0\Ships.dll
+D:\Rider Solutions\LAB1\Ships\Ships\bin\Debug\net6.0\Ships.pdb
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.dll
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\refint\Ships.dll
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.pdb
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\Ships.genruntimeconfig.cache
+D:\Rider Solutions\LAB1\Ships\Ships\obj\Debug\net6.0\ref\Ships.dll
